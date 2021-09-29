@@ -1,0 +1,32 @@
+button{
+     background: grey;
+     color:blue;
+}
+
+#para1{
+    font-family:sans-serif;
+    font-size:7mm;
+    }
+
+#para2{
+    align-self:center;
+    font-family:sans-serif;
+    font-size:6mm;
+}
+
+body, html {
+    height: 100%;
+  }
+  
+  .b1 {
+    /* The image used */
+    background-image: url("arr.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
